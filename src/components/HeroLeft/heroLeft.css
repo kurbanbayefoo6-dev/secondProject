@@ -1,0 +1,13 @@
+ .new {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  width: 360px;
+}
+
+@media (max-width: 900px) {
+  .new {
+    width: 100%;
+  }
+}
+
