@@ -1,7 +1,6 @@
-import React from 'react'
+import './app.css'
 import Hero from './components/Hero/Hero'
 import NextSection from './components/NextSection/NextSection'
-import './app.css'
 export default function App() {
 	return (
 		<div>

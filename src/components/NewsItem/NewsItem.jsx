@@ -14,7 +14,7 @@ const NewsItem = () => {
 
       <div className="news-item__content">
         <h2 className="news-item__title">
-          Ichkilik ichgan shimpanzelar siydik testidan o‘ta olmadi va uzoq vaqt bahsli bo‘lgan nazariyani tasdiqladi.
+          Ichkilik ichgan shimpanzelar prava testidan o‘ta olmadi va uzoq vaqt qamoqqa ketishdi.
         </h2>
 
         <div className="news-item__meta">

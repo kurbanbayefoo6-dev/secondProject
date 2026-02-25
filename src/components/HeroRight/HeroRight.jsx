@@ -1,4 +1,3 @@
-
 import './heroRight.css'
 
 export default function HeroRight() {
@@ -7,20 +6,24 @@ export default function HeroRight() {
 			<div className='heroRight__image-wrapper'>
 				<img
 					className='heroRight__image'
-					src=''
+					src='../../../public/tuys.jpg'
 					alt='Game world gate'
 				/>
-				<span className='heroRight__badge'>FEATURED</span>
+				{/* <span className='heroRight__badge'>FEATURED</span> */}
 			</div>
 
 			<div className='heroRight__label'>MODDING COMMUNITIES</div>
 
 			<h2 className='heroRight__title'>
-				20 yillik o‘yinda butun bir dunyoni qurishga urinayotgan idealist (orzuparast) jamoa ichiga nazar.
+				“Cho‘l vaziri” 20 yillik o‘yinni sotib olib, unda sahro imperiyasini
+				qurmoqchi
 			</h2>
 
 			<p className='heroRight__subtitle'>
-				Haddan tashqari katta jamoaviy mod loyihasidan olingan hikoyalar va saboqlar.
+				Kecha internet foydalanuvchilari orasida kutilmagan yulduz paydo bo‘ldi
+				— boshiga sharf o‘ragan jiddiy qiyofadagi tuya. Guvohlarning aytishicha,
+				tuya 2006-yilda chiqqan eski o‘yinni yuklab olib, unda butun boshli
+				“Sahro Respublikasi”ni qurishga kirishgan.
 			</p>
 
 			<div className='heroRight__meta'>
